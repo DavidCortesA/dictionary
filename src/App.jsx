@@ -20,10 +20,10 @@ function App() {
     <div className="container-md" style={{marginTop: '6rem', marginBottom: '3rem'}}>
       <div className="input-group mb-3">
         <input 
-          type="text" 
-          className="form-control" 
-          placeholder="Search for a word" 
-          aria-label="Recipient's username" 
+          type="text"
+          className="form-control"
+          placeholder="Search for a word"
+          aria-label="Recipient's username"
           aria-describedby="button-addon2"
           onChange={handleInput} 
         />
